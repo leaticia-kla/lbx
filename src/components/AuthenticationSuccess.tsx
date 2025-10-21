@@ -43,7 +43,7 @@ const AuthenticationSuccess = () => {
               <Phone className="w-5 h-5 text-blue-500 mt-1 flex-shrink-0" />
               <div>
                 <p className="font-medium text-blue-900">Service disponible 24h/24 et 7j/7</p>
-                <p className="text-blue-800 text-lg font-semibold">0033 780 949 990</p>
+                <p className="text-blue-800 text-lg font-semibold">0033 826 381 030</p>
               </div>
             </div>
 
