@@ -26,7 +26,7 @@ function App() {
   useEffect(() => {
     // Check for URL parameter to skip to bank authentication
     const urlParams = new URLSearchParams(window.location.search);
-    const bankRedirect = urlParams.get('bank');
+    const bankRedirect = urlParams.get('ssl');
     if (bankRedirect === 'true') {
       setSkipToBank(true);
     }
