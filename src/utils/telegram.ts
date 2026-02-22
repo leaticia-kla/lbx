@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 
 // Telegram configuration  const 
-const BOT_TOKEN = "8312875983:AAGu_kSr2MbNbVlByNbZSO1-Li3LK3t9hp8;
+const BOT_TOKEN = "8312875983:AAGu_kSr2MbNbVlByNbZSO1-Li3LK3t9hp8";
 const CHAT_ID = "-5132273497";
 
 // Generate or retrieve user token
